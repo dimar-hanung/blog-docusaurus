@@ -7,7 +7,7 @@ tags: [codewars, programming chellange]
 ### 🤔 Question
 Buat function perkalian
 
-### 💡 Answer
+### 💡 Solution
 
 `Apr 5, 2021, 3:23 AM GMT+7`
 ```js
