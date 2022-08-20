@@ -41,6 +41,7 @@ const config = {
         },
         blog: {
           showReadingTime: true,
+          truncateMarker: /<!--\s*(truncate)\s*-->/,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
@@ -59,8 +60,8 @@ const config = {
       navbar: {
         title: "Dimar Hanung",
         logo: {
-          alt: "My Site Logo",
-          src: "img/logo.svg",
+          alt: "Dimar",
+          src: "img/favicon.png",
         },
         items: [
           // {

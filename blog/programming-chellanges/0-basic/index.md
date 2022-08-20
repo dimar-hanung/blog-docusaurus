@@ -4,6 +4,7 @@ title: First Kata
 authors: dimar
 tags: [codewars, programming chellange]
 ---
+<!-- truncate -->
 ### 🤔 Question
 Buat function perkalian
 
