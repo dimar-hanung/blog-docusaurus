@@ -1,10 +1,10 @@
 ---
 slug: first-kata
 title: First Kata
-authors: dimar
+# authors: dimar
 tags: [codewars, programming chellange]
 ---
-<!-- truncate -->
+<!-- truncate:10 -->
 ### 🤔 Question
 Buat function perkalian
 

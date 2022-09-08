@@ -28,3 +28,12 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+h2[itemprop="headline"] {
+  font-size: 1.5rem;
+}
+
+article[itemprop="blogPost"] {
+  border-bottom: solid 1px #ccc;
+  padding-bottom: 2rem;
+}
